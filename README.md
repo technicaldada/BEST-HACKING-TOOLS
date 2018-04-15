@@ -1,6 +1,6 @@
-# Awesome Hacking Tools
+# Best Hacking Tools
 
-A curated list of awesome Hacking Tools. If you want to contribute to this list send me a pull request.
+A curated list of best Hacking Tools. If you want to contribute to this list send me a pull request.
 ___________________________________________________________________________________________________________
 * __0trace__	1.5	A hop enumeration tool	http://jon.oberheide.org/0trace/
 * __3proxy__	0.7.1.1	Tiny free proxy server.	http://3proxy.ru/
