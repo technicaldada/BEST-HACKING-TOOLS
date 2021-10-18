@@ -20,6 +20,7 @@ ________________________________________________________________________________
 * __aiengine	339.58dfb85__	A packet inspection engine with capabilities of learning without any human intervention.	https://bitbucket.org/camp0/aiengine/
 * __aimage	3.2.5__	A program to create aff-images.	http://www.afflib.org
 * __air	2.0.0__	A GUI front-end to dd/dc3dd designed for easily creating forensic images.	http://air-imager.sourceforge.net/
+* __aircrarck-ng__  Aircrack-ng is a complete suite of tools to assess WiFi network security. https://github.com/aircrack-ng/aircrack-ng
 * __airflood	0.1__	A modification of aireplay that allows for a DOS in in the AP. This program fills the table of clients of the AP with random MACs doing impossible new connections.	http://packetstormsecurity.com/files/51127/airflood.1.tar.gz.html
 * __airgraph-ng	2371__ Graphing tool for the aircrack suite	http://www.aircrack-ng.org
 * __airoscript	45.0a122ee__	A script to simplify the use of aircrack-ng tools.	http://midnightresearch.com/projects/wicrawl/
@@ -310,6 +311,7 @@ ________________________________________________________________________________
 * __freeradius	3.0.4__	The premier open source RADIUS server	http://www.freeradius.org/
 * __frisbeelite	1.2__	A GUI-based USB device fuzzer.	https://github.com/nccgroup/FrisbeeLite
 * __fs-nyarl	1.0__	A network takeover & forensic analysis tool - useful to advanced PenTest tasks & for fun and profit.	http://www.fulgursecurity.com/en/content/fs-nyarl
+* __fscociety__    A Penetration Testing Framework, you will have every script that a hacker needs. Works with Python 2. For a Python 3 version see our updated version at fsociety-team/fsociety       https://github.com/Manisso/fsociety
 * __fsnoop	3.3__	A tool to monitor file operations on GNU/Linux systems by using the Inotify mechanism. Its primary purpose is to help detecting file race condition vulnerabilities and since version 3, to exploit them with loadable DSO modules (also called "payload modules" or "paymods").	http://vladz.devzero.fr/fsnoop.php
 * __fstealer	0.1__	Automates file system mirroring through remote file disclosur vulnerabilities on Linux machines.	http://packetstormsecurity.com/files/106450/FStealer-Filesystem-Mirroring-Tool.html
 * __ftester	1.0__	A tool designed for testing firewall filtering policies and Intrusion Detection System (IDS) capabilities.	http://www.inversepath.com/ftester.html
