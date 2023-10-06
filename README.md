@@ -678,6 +678,7 @@ marc4dasm	6.f11860f	This python-based tool is a disassembler for the Atmel MARC4
 * __pentbox	1.8__	A security suite that packs security and stability testing oriented tools for networks and systems.	http://www.pentbox.net
 * __perl-image-exiftool	9.76__	Reader and rewriter of EXIF informations that supports raw files	http://search.cpan.org/perldoc?exiftool
 * __perl-tftp	1.0b3__	TFTP - TFTP Client class for perl	http://search.cpan.org/~gsm/TFTP/TFTP.pm
+* __petep 2.2.0__	Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support. https://github.com/Warxim/petep
 * __pev	0.60__	Command line based tool for PE32/PE32+ file analysis	http://pev.sourceforge.net/
 * __pextractor	0.18b__	A forensics tool that can extract all files from an executable file created by a joiner or similar.	http://packetstormsecurity.com/files/62977/PExtractor_v0.18b_binary_and_src.rar.html
 * __pgdbf	94.baa1d95__	Convert XBase / FoxPro databases to PostgreSQL	https://github.com/kstrauser/pgdbf
