@@ -114,6 +114,7 @@ ________________________________________________________________________________
 * __burpsuite	1.6__	An integrated platform for attacking web applications (free edition).	http://portswigger.net/burp/
 * __buttinsky	138.1a2a1b2__	Provide an open source framework for automated botnet monitoring.	https://github.com/buttinsky/buttinsky
 * __bvi	1.4.0beta__	A display-oriented editor for binary files operate like "vi" editor.	http://bvi.sourceforge.net/
+* __bytecode-viewer__ It is a tool that decompresses apk, converts dex to jar, and decompiles. https://github.com/Konloch/bytecode-viewer  
 * __cadaver	0.23.3__	Command-line WebDAV client for Unix	http://www.webdav.org/cadaver
 * __canari	1.1__	A transform framework for maltego	http://www.canariproject.com/
 * __cansina	93.abc6577__	A python-based Web Content Discovery Tool.	https://github.com/deibit/cansina
