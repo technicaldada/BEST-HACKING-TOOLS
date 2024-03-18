@@ -237,7 +237,7 @@ ________________________________________________________________________________
 * __dotdotpwn	3.0__	The Transversal Directory Fuzzer	http://dotdotpwn.blogspot.com
 * __dpeparser	beta002__	Default password enumeration project	http://www.toolswatch.org/dpe/
 * __dpscan	0.1__	Drupal Vulnerabilty Scanner.	https://github.com/insaneisnotfree/Blue-Sky-Information-Security
-* __dradis	2.9.0__	An open source framework to enable effective information sharing.	http://dradisframework.org/
+* __dradis	2.9.0__	An open source framework to enable effective information sharing.	https://dradis.com/ce/
 * __driftnet	0.1.6__	Listens to network traffic and picks out images from TCP streams it observes.	http://www.ex-parrot.com/~chris/driftnet/
 * ___dripper	v1.r1.gc9bb0c9__	A fast, asynchronous DNS scanner; it can be used for enumerating subdomains and enumerating boxes via reverse DNS.	http://www.blackhatlibrary.net/Dripper
 * __dscanner	709.f00026f__	Swiss-army knife for D source code.	https://github.com/Hackerpilot/Dscanner
