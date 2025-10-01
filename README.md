@@ -355,6 +355,7 @@ ________________________________________________________________________________
 * __guymager	0.7.4__	A forensic imager for media acquisition.	http://guymager.sourceforge.net/
 * __gwcheck	0.1__	A simple program that checks if a host in an ethernet network is a gateway to Internet.	http://packetstormsecurity.com/files/62047/gwcheck.c.html
 * __gwtenum	7.f27a5aa__	Enumeration of GWT-RCP method calls.	http://www.gdssecurity.com/l/t/d.php?k=GwtEnum
+* * __HackerPro__	1.0	All in One Hacking Tool for Linux & Android (Termux)	https://github.com/jaykali/hackerpro
 * __hackersh	0.2.0__	A shell for with Pythonect-like syntax, including wrappers for commonly used security tools	http://www.hackersh.org/
 * __halberd	0.2.4__	Halberd discovers HTTP load balancers. It is useful for web application security auditing and for load balancer configuration testing.	http://halberd.superadditive.com/
 * __halcyon	0.1__	A repository crawler that runs checksums for static files found within a given git repository.	http://www.blackhatlibrary.net/Halcyon
