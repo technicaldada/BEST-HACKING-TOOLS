@@ -26,6 +26,7 @@ ________________________________________________________________________________
 * __airoscript	45.0a122ee__	A script to simplify the use of aircrack-ng tools.	http://midnightresearch.com/projects/wicrawl/
 * __airpwn	1.4__	A tool for generic packet injection on an 802.11 network.	http://airpwn.sourceforge.net
 * __allthevhosts 1.0__	A vhost discovery tool that scrapes various web applications	http://labs.portcullis.co.uk/tools/finding-all-the-vhosts/
+* __amass 5.0.1__ DNS/asset discovery, subdomain enumeration https://github.com/owasp-amass/amass
 * __american-fuzzy-lop	0.89b__	A practical, instrumentation-driven fuzzer for binary formats.	https://code.google.com/p/american-fuzzy-lop/
 * __androguard	1.9__	Reverse engineering, Malware and goodware analysis of Android applications and more.	https://code.google.com/p/androguard/
 * __androick	5.35048d7__	A python tool to help in forensics analysis on android.	https://github.com/Flo354/Androick
